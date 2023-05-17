@@ -12,7 +12,7 @@
     "typescript config"
   ],
   "scripts": {
-    "release": "bumpp -r && pnpm -r publish"
+    "release": "bumpp -r && pnpm -r publish --access public"
   },
   "license": "MIT",
   "files": [
