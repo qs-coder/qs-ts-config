@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "Vue Application",
+  "extends": "./base.json",
+  "compilerOptions": {
+    "jsx": "preserve",
+    "lib": ["ESNext", "DOM"],
+    "moduleResolution": "bundler",
+    "noImplicitAny": false,
+    "noUnusedLocals": true,
+    "declaration": false,
+    "typeRoots": ["./node_modules/@types/", "./types"]
+  }
+}
