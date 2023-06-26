@@ -1,6 +1,6 @@
 {
   "name": "@qs-coder/ts-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Qingshi Typescript config",
   "author": "qs-coder <chenpenglei000@gmail.com>",
   "repository": "git@github.com:qs-coder/qs-ts-config.git",
