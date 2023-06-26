@@ -1,5 +1,4 @@
 {
-  "$schema": "https://json.schemastore.org/tsconfig",
   "display": "Vue Application",
   "extends": "./base.json",
   "compilerOptions": {
@@ -8,7 +7,6 @@
     "moduleResolution": "bundler",
     "noImplicitAny": false,
     "noUnusedLocals": true,
-    "declaration": false,
-    "typeRoots": ["./node_modules/@types/", "./types"]
+    "declaration": false
   }
 }
